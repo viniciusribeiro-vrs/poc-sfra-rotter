@@ -1,0 +1,31 @@
+# NodeJS
+/node_modules/
+package-lock.json
+yarn.lock
+
+# SFRA
+/cartridges/app_storefront_base/cartridge/static/*/css/
+/cartridges/app_storefront_base/cartridge/static/*/fonts/
+/cartridges/app_storefront_base/cartridge/static/*/js/
+/cartridges/app_custom_poc_sfra/cartridge/static/*/css/
+/cartridges/app_custom_poc_sfra/cartridge/static/*/fonts/
+/cartridges/app_custom_poc_sfra/cartridge/static/*/js/
+
+coverage/
+npm-debug.log
+cartridges.zip
+.idea/
+dw.json
+sitegenesisdata/
+mobilefirstdata/
+storefrontdata/
+demo_data_sfra/
+demo_data_sfra.zip
+.DS_Store
+test/appium/webdriver/config.json
+.vscode
+.history
+*.iml
+.idea
+test/acceptance/report
+test/integration/config.json

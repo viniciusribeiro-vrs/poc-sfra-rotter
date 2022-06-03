@@ -1,0 +1,6 @@
+{
+    "cartridge": [
+        "app_storefront_base",
+		"app_custom_poc_sfra"
+    ]
+}
